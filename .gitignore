@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Auto-downloaded model weights
+*.pt
+*.task
+
+# Saved artwork/snapshots and macOS files
+*.jpg
+*.png
+.DS_Store
